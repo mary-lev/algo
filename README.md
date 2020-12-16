@@ -1,1 +1,1 @@
-# Algorithm sandbox
+# Основные алгоритмы на Python.
